@@ -16,22 +16,37 @@ Trip Planner is a travel management project built using Java, Spring Boot, and M
 📂 Project Structure
 
 Trip-Planner/
+
 │
 ├── Trip-Planner-Ui/
+
 │   └── Frontend application
+
 │
 ├── Trip-planner/
+
 │   ├── src/
+
 │   │   ├── main/
+
 │   │   │   ├── java/
+
 │   │   │   │   └── Controller/
+
 │   │   │   │   └── Repo/
+
 │   │   │   │   └── model/
+
 │   │   │   │   └── service/
+
 │   │   │   └── resources/
+
 │   │   └── test/
+
 │   ├── pom.xml
+
 │   └── mvnw
+
 │
 └── README.md
 
